@@ -1,0 +1,18 @@
+PHANTOM PROTOCOL - Terminal Installation Command
+
+Copy and paste this single line into your terminal:
+
+curl -fsSL https://raw.githubusercontent.com/husion84-svg/Turn/phantom-protocol-military-grade-pentest-system/auto_install.sh | sudo bash
+
+That's it! This will:
+- Download the auto-installer
+- Install all dependencies and tools
+- Set up the complete PHANTOM PROTOCOL system
+- Configure everything automatically
+- Run system tests
+- Create launch scripts
+
+After installation, run:
+cd phantom_protocol_auto/Turn && ./quick_launch.sh
+
+Passphrase: WILL TOOL KILL OPEN NEVER WILL AGAIN NEVER ZERO WELCOME DUE AND NEVER
